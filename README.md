@@ -1,5 +1,5 @@
 # Assignment06-IT
-POS Sysrem
+POS System
 <br>
 <a href='https://drive.google.com/drive/folders/1FyysegEwc8ZuUt8UE0YAGveoDd1Y_nYx?usp=sharing'>Go to see Sitemap , Wife frame (google drive)</a>
 <br>
